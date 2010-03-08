@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name = "kandadaboggu-vote_fu"
-  s.version = "0.0.14"
-  s.date = "2010-02-20"
+  s.version = "0.0.15"
+  s.date = "2010-03-08"
   s.summary = "Enhanced vote_fu with numerical voting and total vote caching."
   s.email = "kandadaboggu@gmail.com"
   s.homepage = "http://github.com/kandadaboggu/vote_fu"

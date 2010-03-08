@@ -1,3 +1,7 @@
+2010-03-08
+==========
+* Vote method in `acts_as_voter` model returns true upon success. 
+
 2010-02-21
 ==========
 * Changed the `tally` method to add support for `at_least_total` and `at_most_total` parameters to filter by sum of votes.
